@@ -1,4 +1,4 @@
-To be honest. I didn't learn a whole lot of completely new concepts from this experience. I've been doing front-end development for about 5 to 6 years now, 
+To be honest. I didn't learn a whole lot of completely new concepts from the readings. I've been doing front-end development for about 5 to 6 years now, 
 including internships, and I'm still learning new things as time goes on. That said, this was still valuable and refreshing especially,
 when it came to working with plain HTML and vanilla CSS. 
 
