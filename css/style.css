@@ -16,7 +16,7 @@ removes default spacing
 }
 
 /* 
-    background, font, text color
+    body background, font, text color
 */
 body {
 	background: #0f172a;
@@ -26,21 +26,18 @@ body {
 }
 
 /* 
-    centers content
+    content for everything
 */
 .container {
-	max-width: 1100px;
-	margin: 0 auto;
-	background: #1e293b;
-	padding: 30px;
-	border-radius: 10px;
+	max-width: auto;
+	margin: auto;
 }
 
 /* 
     titles and subtitles
  */
 h1 {
-	color: #BF40BF;
+	color: #bf40bf;
 	text-align: center;
 	margin-bottom: 15px;
 	font-size: 32px;
@@ -51,12 +48,12 @@ h2 {
 	margin-top: 30px;
 	margin-bottom: 15px;
 	padding-bottom: 8px;
-	border-bottom: 2px solid #BF40BF;
+	border-bottom: 2px solid #bf40bf;
 	font-size: 24px;
 }
 
 h3 {
-	color: #BF40BF;
+	color: #bf40bf;
 	margin-top: 15px;
 	margin-bottom: 8px;
 	font-size: 20px;
@@ -69,7 +66,7 @@ h3 {
 }
 
 /* 
-    Text styling
+    text styling
  */
 p {
 	margin-bottom: 15px;
@@ -77,7 +74,7 @@ p {
 }
 
 /* 
-    Display Cards for games
+    display cards for games
  */
 .game-grid {
 	display: flex;
@@ -91,7 +88,6 @@ p {
 	border: 1px solid #334155;
 	border-radius: 8px;
 	width: 240px;
-	padding: 0;
 	overflow: hidden;
 }
 
@@ -103,7 +99,6 @@ p {
 
 .card h3 {
 	padding: 10px 12px 5px 12px;
-	margin: 0;
 }
 
 .card p {
@@ -130,13 +125,13 @@ td {
 }
 
 th {
-	background: #BF40BF;
+	background: #bf40bf;
 	color: #0f172a;
 	font-weight: bold;
 }
 
 /* 
-    gallery styling for official games arts that been confirmed(released already due to games can change art in the last minute)
+    gallery images for official games arts that been confirmed(released already due to games can change art in the last minute)
  */
 .gallery {
 	display: flex;
@@ -173,7 +168,7 @@ th {
 .links-list {
 	list-style: none;
 	margin: 20px 0;
-	padding: 0;
+	padding: 1px;
 }
 
 .links-list li {
@@ -192,14 +187,13 @@ th {
 }
 
 .links-list li:hover {
-	background: #BF40BF;
+	background: #bf40bf;
 }
 
 .links-list li:hover a {
 	color: #0f172a;
 }
 
-/* link styling */
 a {
 	color: #facc15;
 	text-decoration: none;
