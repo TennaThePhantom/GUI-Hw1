@@ -1,0 +1,21 @@
+To be honest. I didn't learn a whole lot of completely new concepts from this experience. I've been doing front-end development for about 5 to 6 years now, 
+including internships, and I'm still learning new things as time goes on. That said, this was still valuable and refreshing especially,
+when it came to working with plain HTML and vanilla CSS. 
+
+I haven't written raw, plain HTML in such a long time. Most of the time, I mostly work with React or rely on HTML templates to speed things up. 
+So going back to basics reminded me of some elements I had completely forgotten about like the figurecaption. 
+I genuinely forgot that tag even existed in HTML, so using it was a nice little moment. 
+I find it kinda funny how you can use high-level tools for years and still lose touch with some fundamentals.
+ 
+using HTML entities was also a good reminder. I rarely use them in my personal code because in the past
+I found them kind of annoying to work with. it was always a hassle to constantly search online whenever 
+I needed a specific special character that couldn't just be pasted directly but the link provided in this hw was super helpful.
+I'm definitely going to save it for future personal development work. 
+
+As for css, it was pretty straightforward for me, I didn't really come across anything that felt new or surprising. 
+Even though I now use Tailwind CSS, Bootstrap, and other CSS frameworks and libraries on a regular basis. I still know how to write vanilla CSS from scratch.
+I just don't prefer it anymore it feels tedious and slow compared to using frameworks.
+However I do believe it's really important to understand plain CSS before jumping into frameworks or libraries.
+Vanilla CSS might be more tedious and require more manual effort, 
+but if you have a truly original design in your mind—something that doesn't fit neatly into a pre-built component library—vanilla CSS is always the best tool to pick.
+ It gives you complete control and freedom, even if it takes a bit more time and patience.
