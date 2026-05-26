@@ -29,7 +29,7 @@ body {
     content for everything
 */
 .container {
-	max-width: auto;
+	max-width: 100%;
 	margin: auto;
 }
 
